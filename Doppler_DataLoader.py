@@ -1,4 +1,7 @@
-# Dvir Jacobovich 2021 - Pr John Howell lab Hebrew University Of Jerusalem
+"""
+Dvir Jacobovich Doppler mapping deep leaning simulation 
+John Howell lab 2022
+"""
 
 import torch
 import numpy as np
