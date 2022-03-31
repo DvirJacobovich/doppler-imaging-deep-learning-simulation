@@ -1,4 +1,4 @@
-# Generate new data at: C:\Users\Dvir\Desktop\Doppler Frequencies Mapping\Doppler\Simulations\Auto-encoding denoising simulation\Reconstruction_network\Gen_data.m
+# Dvir Jacobovich 2021 - Pr John Howell lab Hebrew University Of Jerusalem
 
 import torch
 import numpy as np
