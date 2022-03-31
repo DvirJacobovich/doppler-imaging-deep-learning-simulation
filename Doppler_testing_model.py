@@ -1,3 +1,8 @@
+"""
+Dvir Jacobovich Doppler mapping deep leaning simulation 
+John Howell lab 2022
+"""
+
 import torch
 import Doppler_model
 import Doppler_plots
