@@ -1,6 +1,6 @@
 """
 Dvir Jacobovich Doppler mapping deep leaning simulation 
-John Howell lab 2022
+John Howell lab 2021
 """
 
 import torch
