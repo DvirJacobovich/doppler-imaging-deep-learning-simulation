@@ -1,7 +1,7 @@
 
 """
 Dvir Jacobovich Doppler mapping deep leaning simulation 
-John Howell lab 2021
+John Howell lab 2024
 """
 
 import time
